@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0CC09794-4F24-F718-75BD-3AA7F0C0E0C2}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TwoWorlds",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
